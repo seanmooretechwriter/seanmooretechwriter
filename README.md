@@ -5,11 +5,7 @@ I'm currently experimenting with a personal Vue 3 website/portfolio. Have a look
 https://seanmooretechwriter.github.io/
 
 - 👨🏻‍💻 I’m currently working on a SaaS-based Cloud web application created with Vue 3 & TypeScript
-- 🌱 I’m currently learning Vue 3, TypeScript and improving my code & PR review capabilities and skills
-- 👯 I’m looking to collaborate on Vue 3 development, technical writing
-- 🤔 I’m looking for help with Vue 3, TypeScript, constantly evolving and improving as a developer and human being
 - 💬 Ask me about Vue 3, TypeScript, code reviews & PRs, best practices, coding standards, history of web development, technical writing, technical reviewing, documentation
-- 📫 How to reach me: seanmoore1976@gmail.com
 - 😄 Pronouns: He/Him/Dude
 - ⚡ Fun fact: I started working with web development in the late '90s and have watched the evolution of the web happen ever since!
 
